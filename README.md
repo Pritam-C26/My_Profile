@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Asp.Net,Sql**
 
-- 👨‍💻 All of my projects are available at [https://pritam-c26.github.io/Pritam.github.io/](https://pritam-c26.github.io/Pritam.github.io/)
+- 👨‍💻 All of my projects are available at [portfolio](https://pritam-c26.github.io/Pritam.github.io/)
 
 - 📫 How to reach me **pritamchowdhury442@gmail.com**
 
