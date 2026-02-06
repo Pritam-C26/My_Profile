@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Asp.Net,Sql**
+- 🌱 I’m currently learning **Asp.Net, Sql & MVC**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://pritam-c26.github.io/Pritam.github.io/)
 
