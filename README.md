@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Chowdhury</h1>
 <h3 align="center">ASP.NET Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-c26&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-c26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-c26" alt="pritam-c26" /></a> </p>
 
 - 🌱 I’m currently learning **Asp.Net,Sql**
 
